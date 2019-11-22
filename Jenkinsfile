@@ -10,7 +10,7 @@ tools {
       stage('checkout') {
          steps {
             // Get some code from a GitHub repository
-            git 'https://github.com/sushmab123/INGFavAccount.git'
+            git 'https://github.com/sushmab123/INGFavBank.git'
             
             }
 
